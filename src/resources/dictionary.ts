@@ -169,6 +169,17 @@ const chinaExam: DictionaryResource[] = [
     languageCategory: 'en',
   },
   {
+    id: 'hongbaoshu-2027',
+    name: '2027考研英语 hongbaoshu',
+    description: '2027 考研词汇',
+    category: '中国考试',
+    tags: ['考研'],
+    url: '/dicts/hongbaoshu-2027.json',
+    length: 6551,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
     id: 'English_II',
     name: '英语二单词书',
     description: '考研英语二单词书',
